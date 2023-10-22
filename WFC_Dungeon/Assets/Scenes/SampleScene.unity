@@ -201,7 +201,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 10, y: 10, z: -20}
+  m_LocalPosition: {x: 8.83, y: 4.94, z: -20}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -220,6 +220,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a78e0a3286fe05409b566e1b985243c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  camSpeed: 0.5
 --- !u!1 &1184621953
 GameObject:
   m_ObjectHideFlags: 0
@@ -249,7 +250,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef2ce0fc3dd31c548ace17cbf660d248, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dimensions: 30
+  dimensionX: 20
+  dimensionY: 40
   tileObjs:
   - {fileID: -1527031996974566722, guid: 394804ccd7650f94eb3834c6120ac0cc, type: 3}
   - {fileID: 7703397425536622809, guid: 9ec31ac4515e42442addbef9378dd294, type: 3}
@@ -285,7 +287,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1184621953}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.25973028, y: -0.08847779, z: 0.00020249421}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []

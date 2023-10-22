@@ -9,4 +9,8 @@ public class Tile : MonoBehaviour
     public Tile[] leftNeighbor;
     public Tile[] rightNeighbor;
     public bool itemIsPlacable;
+    public Tile upEdge;
+    public Tile downEdge;
+    public Tile leftEdge;
+    public Tile rightEdge;
 }

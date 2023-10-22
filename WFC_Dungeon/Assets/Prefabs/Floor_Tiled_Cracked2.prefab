@@ -130,3 +130,7 @@ MonoBehaviour:
   - {fileID: -7035273780321110558, guid: 6263c0f74017a8a499cc17edbfb4a7a2, type: 3}
   - {fileID: -6001910275449680384, guid: 0903edd232d57a440a9d0f2fe6557b89, type: 3}
   itemIsPlacable: 1
+  upEdge: {fileID: -8991923796450203695, guid: 62d1b9fa170076f4399369b51db4a845, type: 3}
+  downEdge: {fileID: -474462821092390771, guid: 1565862d9f1dce44b9b4d2969615bb1d, type: 3}
+  leftEdge: {fileID: 4004958299493894539, guid: 3d40ae41ea070a8489b12993f63c804f, type: 3}
+  rightEdge: {fileID: -6001910275449680384, guid: 0903edd232d57a440a9d0f2fe6557b89, type: 3}

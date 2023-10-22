@@ -119,3 +119,8 @@ MonoBehaviour:
   - {fileID: -474462821092390771}
   - {fileID: -6939824364019912617, guid: 30a68744626ad4f4097e2cc72d8ea95b, type: 3}
   - {fileID: 7703397425536622809, guid: 9ec31ac4515e42442addbef9378dd294, type: 3}
+  itemIsPlacable: 0
+  upEdge: {fileID: -8991923796450203695, guid: 62d1b9fa170076f4399369b51db4a845, type: 3}
+  downEdge: {fileID: -1527031996974566722, guid: 394804ccd7650f94eb3834c6120ac0cc, type: 3}
+  leftEdge: {fileID: 1860289121566411895, guid: c2c5486f9e0733941b6670d07b0b9635, type: 3}
+  rightEdge: {fileID: -6939824364019912617, guid: 30a68744626ad4f4097e2cc72d8ea95b, type: 3}
